@@ -36,7 +36,7 @@ When an Author is removed, all the books connected to him are also removed in ca
 
 *Index page*
 
-![home page img not present](screenShot\homePage.png)
+![home page img not present](.\screenShot\homePage.png)
 
 *Author page*
 
