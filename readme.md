@@ -40,7 +40,7 @@ When an Author is removed, all the books connected to him are also removed in ca
 
 *Author page*
 
-![Author page img not present](screenShot\autorePage.png)
+![Author page img not present](.\screenShot\autorePage.png)
 
 *Books list page*
 
