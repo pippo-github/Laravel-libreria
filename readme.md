@@ -38,10 +38,10 @@ When an Author is removed, all the books connected to him are also removed in ca
 
 ![home page img not present](./screenShot/homePage.png)
 
-*Author page*
+<!-- *Author page*
 
 ![Author page img not present](./screenShot/autorePage.png)
-
+ -->
 *Books list page*
 
 ![list books page img not present](./screenShot/elencoLibri.png)
@@ -50,7 +50,7 @@ When an Author is removed, all the books connected to him are also removed in ca
 
 ![Books insert page img not present](./screenShot/libriInserimento.png)
 
-*Insert page*
+*Author insert page*
 
 ![Insert page img not present](./screenShot/inserimentoPage.png)
 
