@@ -40,19 +40,19 @@ When an Author is removed, all the books connected to him are also removed in ca
 
 *Author page*
 
-![Author page img not present](.\screenShot\autorePage.png)
+![Author page img not present](./screenShot\autorePage.png)
 
 *Books list page*
 
-![list books page img not present](screenShot\elencoLibri.png)
+![list books page img not present](./screenShot\elencoLibri.png)
 
 *Book insert page*
 
-![Books insert page img not present](screenShot\libriInserimento.png)
+![Books insert page img not present](./screenShot\libriInserimento.png)
 
 *Insert page*
 
-![Insert page img not present](screenShot\inserimentoPage.png)
+![Insert page img not present](./screenShot\inserimentoPage.png)
 
 
 <br>
